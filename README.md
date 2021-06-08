@@ -99,11 +99,3 @@ I'm a junior year undergraduate student at the SRM Institute of Technology, Chen
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=nastyphantom&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
