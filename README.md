@@ -27,7 +27,7 @@ I'm a junior year undergraduate student at the SRM Institute of Technology, Chen
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently learning learning Flutter
+- 🔭 I’m currently learning Flutter
   
 
 - 🌱 I’m currently learning Natural Language Processing  
